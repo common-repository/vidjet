@@ -1,0 +1,8 @@
+= 1.0.0 =
+* Release Vidjet plugin
+= 1.1.0 =
+* API integration with Woocommerce to track products and conversion
+= 1.1.1 =
+* Fixing uninstall 
+= 1.1.2 =
+* Improving ATC logic
